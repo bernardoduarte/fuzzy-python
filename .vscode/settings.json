@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "./.venv/bin/python",
+    "files.exclude": {
+        "**/.venv": true
+    }
+}
